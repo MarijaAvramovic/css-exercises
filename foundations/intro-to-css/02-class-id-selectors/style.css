@@ -2,10 +2,14 @@
     background-color: rgb(219, 161, 171);
     font-family: "Verdana", "DejaVu Sans", sans-serif; 
 }
+.font-24{
+    font-size: 24px;
+}
 #second {
     color: rgb(145, 145, 233);
     font-size: 36px;
 }
-.font-24{
-    font-size: 24px;
+#fourth {
+    background-color: rgb(191, 236, 191);
+    font-weight: bold;
 }
