@@ -1,0 +1,11 @@
+.action-button{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+.no-action-button{
+    background-color: rgb(188, 188, 103);
+}
+.shared{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" sans-serif;
+}
