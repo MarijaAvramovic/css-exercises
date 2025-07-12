@@ -17,6 +17,9 @@ body {
   align-items: center;
   margin: 8px;
 }
+.conteiner {
+  display: flex;
+}
 
 .profile-image {
   background: rebeccapurple;
