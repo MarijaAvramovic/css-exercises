@@ -16,10 +16,14 @@ body {
   justify-content: space-between;
   align-items: center;
   margin: 8px;
+  padding: 8px;
 }
 .conteiner {
   display: flex;
+  gap: 16px;
 }
+
+
 
 .profile-image {
   background: rebeccapurple;
@@ -48,8 +52,15 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
+    margin: 0;
+  padding: 0;
 }
 
 ul {
   list-style-type: none;
+    margin: 0;
+  padding: 0;
+   display: flex;
+  gap: 16px;
+  align-items: center;
 }
