@@ -43,6 +43,10 @@ body {
   margin: 0 10px;
 
 }
+.header {
+  font-weight: bold;
+  font-size: larger;
+}
 .text{
   padding: 10px 0;
 }
