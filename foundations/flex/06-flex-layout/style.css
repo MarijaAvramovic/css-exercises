@@ -57,4 +57,5 @@ li a{
   justify-content: center;
   align-items: center;
   gap:14px;
+  flex: 1;
 }
