@@ -20,6 +20,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eee;
+  padding: 10px;
 }
 
 input {
@@ -55,4 +56,5 @@ li a{
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  gap:14px;
 }
